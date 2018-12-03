@@ -1,0 +1,287 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Tniemy layout RWD</title>
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.4.1/css/all.css" integrity="sha384-5sAR7xN1Nv6T6+dT2mhtzEpVJvfS3NScPQTrOxhwjIuvcA67KV2R5Jz6kr4abQsz" crossorigin="anonymous">
+		<link rel="stylesheet" href="style.css">
+		<link rel="stylesheet" href="style.scss">
+	</head>
+	<body>
+		<header>
+			<nav class="container">
+				<div class="row">
+				<img src="//placehold.it/150x30" alt="logo">
+				<ul>
+					<li><a href="#">O nas</a></li>
+					<li><a href="#">Realizacje</a></li>
+					<li><a href="#">Projekty</a></li>
+				</ul>
+				</div>
+			</nav>
+		</header>
+		<section class="hero">
+			<div class="slogan">
+				<h1>Tutaj wpisuje treœc sloganu<br><strong>Tutaj wpisuje treœc<br>Tutaj wpisuje treœc</strong></h1>
+			</div>
+		</section>
+		<section class="icon-box">
+			<div class="container">
+				<div class="row">
+					<div class="col-2 col-offset-2 col-s-12 col-s-offset-0">	
+						<i class="fas fa-globe"></i>
+						<h3>#1 icon</h3>
+						<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, </p>
+					</div>
+					<div class="col-2 col-offset-1 col-s-12 col-s-offset-0">
+						<i class="fas fa-laptop"></i>
+						<h3>#2 icon</h3>
+						<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, </p>
+					</div>
+					<div class="col-2 col-offset-1 col-s-12 col-s-offset-0">
+						<i class="fas fa-cogs"></i>
+						<h3>#3 icon</h3>
+						<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, </p>
+					</div>
+				</div>
+			</div>
+		</section>
+		<section>
+			<div class="container">
+				<h1>featured work</h1>
+				<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+			</div>
+		</section>
+		<section class="gallery">
+			<div class="row">
+				<div class="col-2 col-s-6">	
+					<div class="hidden-icons">
+						<i class="fas fa-link"></i>
+						<i class="fas fa-search"></i>
+					</div>
+					<img src="https://images.pexels.com/photos/1323440/pexels-photo-1323440.jpeg?auto=compress&cs=tinysrgb&h=350" alt="road">
+				</div>
+				<div class="col-2 col-s-6">	
+					<div class="hidden-icons">
+						<i class="fas fa-link"></i>
+						<i class="fas fa-search"></i>
+					</div>
+					<img src="https://images.pexels.com/photos/1166657/pexels-photo-1166657.jpeg?auto=compress&cs=tinysrgb&h=350" alt="books">
+				</div>
+				<div class="col-2 col-s-6">	
+					<div class="hidden-icons">
+						<i class="fas fa-link"></i>
+						<i class="fas fa-search"></i>
+					</div>
+					<img src="https://images.pexels.com/photos/1007957/pexels-photo-1007957.jpeg?auto=compress&cs=tinysrgb&h=350" alt="fog">
+				</div>
+				<div class="col-2 col-s-6">	
+					<div class="hidden-icons">
+						<i class="fas fa-link"></i>
+						<i class="fas fa-search"></i>
+					</div>
+					<img src="https://images.pexels.com/photos/1500590/pexels-photo-1500590.jpeg?auto=compress&cs=tinysrgb&h=350" alt="camera">
+				</div>
+				<div class="col-2 col-s-6">	
+					<div class="hidden-icons">
+						<i class="fas fa-link"></i>
+						<i class="fas fa-search"></i>
+					</div>
+					<img src="https://images.pexels.com/photos/1199588/pexels-photo-1199588.jpeg?auto=compress&cs=tinysrgb&h=350" alt="yoga">
+				</div>
+				<div class="col-2 col-s-6">	
+					<div class="hidden-icons">
+						<i class="fas fa-link"></i>
+						<i class="fas fa-search"></i>
+					</div>
+					<img src="https://images.pexels.com/photos/1118866/pexels-photo-1118866.jpeg?auto=compress&cs=tinysrgb&h=350" alt="lake">
+				</div>
+				<div class="col-2 col-s-6">	
+					<div class="hidden-icons">
+						<i class="fas fa-link"></i>
+						<i class="fas fa-search"></i>
+					</div>
+					<img src="https://images.pexels.com/photos/351448/pexels-photo-351448.jpeg?auto=compress&cs=tinysrgb&h=350" alt="droneshot">
+				</div>
+				<div class="col-2 col-s-6">	
+					<div class="hidden-icons">
+						<i class="fas fa-link"></i>
+						<i class="fas fa-search"></i>
+					</div>
+					<img src="https://images.pexels.com/photos/878979/pexels-photo-878979.jpeg?auto=compress&cs=tinysrgb&h=350" alt="smoke">
+				</div>
+				<div class="col-2 col-s-6">	
+					<div class="hidden-icons">
+						<i class="fas fa-link"></i>
+						<i class="fas fa-search"></i>
+					</div>
+					<img src="https://images.pexels.com/photos/807598/pexels-photo-807598.jpeg?auto=compress&cs=tinysrgb&h=350" alt="leafs">
+				</div>
+				<div class="col-2 col-s-6">	
+					<div class="hidden-icons">
+						<i class="fas fa-link"></i>
+						<i class="fas fa-search"></i>
+					</div>
+					<img src="https://images.pexels.com/photos/850602/pexels-photo-850602.jpeg?auto=compress&cs=tinysrgb&h=350" alt="dogs">
+				</div>
+				<div class="col-2 col-s-6">	
+					<div class="hidden-icons">
+						<i class="fas fa-link"></i>
+						<i class="fas fa-search"></i>
+					</div>
+					<img src="https://images.pexels.com/photos/936132/pexels-photo-936132.jpeg?auto=compress&cs=tinysrgb&h=350" alt="bluered">
+				</div>
+				<div class="col-2 col-s-6">	
+					<div class="hidden-icons">
+						<i class="fas fa-link"></i>
+						<i class="fas fa-search"></i>
+					</div>
+					<img src="https://images.pexels.com/photos/60342/pexels-photo-60342.jpeg?auto=compress&cs=tinysrgb&h=350" alt="chair">
+				</div>
+			</div>	
+		</section>
+		<section class="team">
+			<div class="container">	
+				<div class="row">
+					<div class="col-3 col-s-6">	
+						<div class="style">
+							<div class="hidden-h3">
+							<h3>Lorem ipsum</h3>
+							</div>
+							<img src="https://images.pexels.com/photos/1492156/pexels-photo-1492156.jpeg?auto=compress&cs=tinysrgb&h=350" alt="Mona" class="person">
+						</div>
+						<p>Mona</p>
+					</div>
+					<div class="col-3 col-s-6">	
+						<div class="style">
+							<div class="hidden-h3">
+								<h3>Lorem ipsum</h3>
+							</div>
+							<img src="https://images.pexels.com/photos/1498335/pexels-photo-1498335.jpeg?auto=compress&cs=tinysrgb&h=350" alt="Kotaro" class="person">
+						</div>
+						<p>Kotaro</p>
+					</div>
+					<div class="col-3 col-s-6">	
+						<div class="style">
+							<div class="hidden-h3">
+								<h3>Lorem ipsum</h3>
+							</div>
+							<img src="https://images.pexels.com/photos/1433227/pexels-photo-1433227.jpeg?auto=compress&cs=tinysrgb&h=350" alt="Ina" class="person">
+						</div>
+						<p>Ina</p>
+					</div>
+					<div class="col-3 col-s-6">	
+						<div class="style">
+							<div class="hidden-h3">
+								<h3>Lorem ipsum</h3>
+							</div>
+							<img src="https://images.pexels.com/photos/428338/pexels-photo-428338.jpeg?auto=compress&cs=tinysrgb&h=350" alt="Marta" class="person">
+						</div>
+						<p>Marta</p>
+					</div>
+				</div>	
+			</div>
+		</section>
+		<section class="picture">
+			<div class="container">
+				<div class="row">
+					<div class="col-4">
+						<img src="https://images.pexels.com/photos/267350/pexels-photo-267350.jpeg?auto=compress&cs=tinysrgb&h=650&w=940" alt="phone">
+					</div>
+					<div class="col-8 col-s-12">
+						<h1>your awesome title</h1>
+						<div class="row">
+							<div class="col-7 col-offset-1 col-s-7 col-s-offset-0">
+									<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+							</div>
+							<div class="col-3 col-offset-1 col-s-4 col-s-offset-1">
+								<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</section>
+		<section class="numbers">
+			<div class="container">	
+				<div class="row">
+					<div class="col-3 col-s-6">
+						<h1>499</h1>
+						<p>followers</p>
+					</div>
+					<div class="col-3 col-s-6">
+						<h1>1991</h1>
+						<p>since</p>
+					</div>
+					<div class="col-3 col-s-6">
+						<h1>806</h1>
+						<p>happy clients</p>
+					</div>
+					<div class="col-3 col-s-6">
+						<h1>923</h1>
+						<p>projects</p>
+					</div>
+				</div>
+			</div>	
+		</section>
+		<footer>
+			<div class="container">
+				<div class="row">
+					<div class="col-4 col-s-12">
+						<h3>about us</h3>
+						<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+					</div>
+					<div class="col-3 col-s-12">
+						<h3>get in touch</h3>
+						<div class="row">
+							<div class="col-4 col-s-3">Address:
+							</div>
+							<div class="col-7 col-s-9"><p>66 South street,<br>Window 6 world</p>
+							</div>
+						</div>
+						<div class="row">
+							<div class="col-4 col-s-3">Phone:
+							</div>
+							<div class="col-7 col-s-9"><p>+440876543211,<br>+447659087656</p>
+							</div>
+						</div>
+						<div class="row">
+							<div class="col-4 col-s-3">Email:</div>
+							<div class="col-7 col-s-9"><p>lorem@ipsum.com</p></div>
+						</div>
+					</div>
+					<div class="col-4 col-offset-1 col-s-12 col-s-offset-0">
+						<h3>social media</h3>
+						<div class="row">
+							<div class="col-12">
+							<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+							</div>
+							<div class="col-12 btn">
+								<button class="icon-btn youtube">
+									<i class="fab fa-youtube"></i>
+								</button>
+								<button class="icon-btn google-plus">
+									<i class="fab fa-google-plus"></i>
+								</button>
+								<button class="icon-btn facebook">
+									<i class="fab fa-facebook"></i>
+								</button>
+								<button class="icon-btn github">
+									<i class="fab fa-github"></i>
+								</button>
+								<button class="icon-btn twitter">
+									<i class="fab fa-twitter"></i>
+								</button>
+								<button class="icon-btn instagram">
+									<i class="fab fa-instagram"></i>
+								</button>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+			<div class="copyrights">Copyrights 2018</div>
+		</footer>
+	</body>
+</html>
